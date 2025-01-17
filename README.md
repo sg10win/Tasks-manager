@@ -1,4 +1,4 @@
-# List
+# Tasks Manager
 
 This project provides a simple interface for managing a list of items. It allows users to add, view, and delete items from the list.
 
